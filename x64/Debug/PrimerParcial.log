@@ -1,0 +1,64 @@
+﻿  EstadisticaArchivo.cpp
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,8): error C3646: 'leer': unknown override specifier
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,12): error C2059: syntax error: '('
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(8,18): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,42): error C2535: 'bool PagosArchivo::guardar(void)': member function already defined or declared
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9): message : see declaration of 'PagosArchivo::guardar'
+  Pago.cpp
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,8): error C3646: 'leer': unknown override specifier
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,12): error C2059: syntax error: '('
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(8,18): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,42): error C2535: 'bool PagosArchivo::guardar(void)': member function already defined or declared
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9): message : see declaration of 'PagosArchivo::guardar'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\Pago.cpp(120,25): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+  main.cpp
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,8): error C3646: 'leer': unknown override specifier
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,12): error C2059: syntax error: '('
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(8,18): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,42): error C2535: 'bool PagosArchivo::guardar(void)': member function already defined or declared
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9): message : see declaration of 'PagosArchivo::guardar'
+  PrimerParcial.cpp
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,8): error C3646: 'leer': unknown override specifier
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,12): error C2059: syntax error: '('
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(7,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(8,18): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,16): error C2061: syntax error: identifier 'Pago'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(10,42): error C2535: 'bool PagosArchivo::guardar(void)': member function already defined or declared
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(9): message : see declaration of 'PagosArchivo::guardar'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(26,19): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(28,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(49,36): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(81,16): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(81,58): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(82,21): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(101,28): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(105,16): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(106,26): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(110,16): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(111,26): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(137,11): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PrimerParcial.cpp(138,26): error C2039: 'leer': is not a member of 'PagosArchivo'
+C:\Users\Joaquina\Desktop\Primer Parcial LABO2\PagosArchivo.h(4): message : see declaration of 'PagosArchivo'
+  Generating Code...
